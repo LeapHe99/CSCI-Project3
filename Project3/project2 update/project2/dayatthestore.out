@@ -1,0 +1,267 @@
+--------------------
+Day 1
+spring remain 27
+egg remain 25
+sausage remain 20
+jelly remain 25
+pasty remain 25
+--------------------
+Day 2
+spring remain 27
+egg remain 15
+sausage remain 20
+jelly remain 18
+pasty remain 15
+--------------------
+Day 3
+spring remain 22
+egg remain 10
+sausage remain 20
+jelly remain 10
+pasty remain 5
+--------------------
+Day 4
+egg is not enough!
+egg have sold empty!
+spring remain 22
+egg remain 0
+supply egg
+sausage remain 15
+jelly remain 4
+pasty remain 5
+--------------------
+Day 5
+jelly is not enough!
+pasty is not enough!
+spring remain 22
+egg remain 20
+sausage remain 10
+jelly remain 0
+supply jelly
+pasty remain 0
+supply pasty
+--------------------
+Day 6
+spring remain 22
+egg remain 15
+sausage remain 5
+jelly remain 29
+pasty remain 15
+--------------------
+Day 7
+sausage is not enough!
+spring remain 11
+egg remain 15
+sausage remain 0
+supply sausage
+jelly remain 24
+pasty remain 10
+--------------------
+Day 8
+spring remain 6
+egg remain 5
+sausage remain 27
+jelly remain 19
+pasty remain 5
+--------------------
+Day 9
+pasty is not enough!
+pasty have sold empty!
+pasty have sold empty!
+spring remain 1
+egg remain 5
+sausage remain 27
+jelly remain 12
+pasty remain 0
+supply pasty
+--------------------
+Day 10
+spring is not enough!
+egg is not enough!
+spring have sold empty!
+egg have sold empty!
+spring remain 0
+supply spring
+egg remain 0
+supply egg
+sausage remain 27
+jelly remain 7
+pasty remain 25
+--------------------
+Day 11
+spring remain 20
+egg remain 25
+sausage remain 22
+jelly remain 4
+pasty remain 20
+--------------------
+Day 12
+jelly is not enough!
+jelly have sold empty!
+spring remain 15
+egg remain 13
+sausage remain 22
+jelly remain 0
+supply jelly
+pasty remain 20
+--------------------
+Day 13
+spring remain 2
+egg remain 8
+sausage remain 17
+jelly remain 25
+pasty remain 20
+--------------------
+Day 14
+spring is not enough!
+spring remain 0
+supply spring
+egg remain 3
+sausage remain 12
+jelly remain 15
+pasty remain 15
+--------------------
+Day 15
+egg is not enough!
+egg have sold empty!
+spring remain 30
+egg remain 0
+supply egg
+sausage remain 7
+jelly remain 5
+pasty remain 13
+--------------------
+Day 16
+jelly is not enough!
+jelly have sold empty!
+spring remain 14
+egg remain 30
+sausage remain 7
+jelly remain 0
+supply jelly
+pasty remain 13
+--------------------
+Day 17
+spring remain 2
+egg remain 25
+sausage remain 7
+jelly remain 25
+pasty remain 8
+--------------------
+Day 18
+spring is not enough!
+spring have sold empty!
+spring remain 0
+supply spring
+egg remain 15
+sausage remain 2
+jelly remain 25
+pasty remain 3
+--------------------
+Day 19
+pasty is not enough!
+spring remain 20
+egg remain 10
+sausage remain 1
+jelly remain 20
+pasty remain 0
+supply pasty
+--------------------
+Day 20
+sausage is not enough!
+egg is not enough!
+sausage have sold empty!
+spring remain 15
+egg remain 0
+supply egg
+sausage remain 0
+supply sausage
+jelly remain 15
+pasty remain 30
+--------------------
+Day 21
+spring is not enough!
+spring remain 0
+supply spring
+egg remain 30
+sausage remain 30
+jelly remain 8
+pasty remain 25
+--------------------
+Day 22
+spring remain 20
+egg remain 30
+sausage remain 22
+jelly remain 8
+pasty remain 15
+--------------------
+Day 23
+spring remain 15
+egg remain 25
+sausage remain 17
+jelly remain 3
+pasty remain 9
+--------------------
+Day 24
+jelly is not enough!
+spring remain 15
+egg remain 20
+sausage remain 7
+jelly remain 0
+supply jelly
+pasty remain 4
+--------------------
+Day 25
+pasty is not enough!
+spring remain 10
+egg remain 12
+sausage remain 2
+jelly remain 25
+pasty remain 0
+supply pasty
+--------------------
+Day 26
+spring remain 10
+egg remain 9
+sausage remain 2
+jelly remain 10
+pasty remain 20
+--------------------
+Day 27
+egg is not enough!
+jelly is not enough!
+spring remain 10
+egg remain 0
+supply egg
+sausage remain 2
+jelly remain 0
+supply jelly
+pasty remain 14
+--------------------
+Day 28
+sausage is not enough!
+spring remain 7
+egg remain 20
+sausage remain 0
+supply sausage
+jelly remain 25
+pasty remain 9
+--------------------
+Day 29
+pasty is not enough!
+spring remain 2
+egg remain 15
+sausage remain 25
+jelly remain 23
+pasty remain 0
+supply pasty
+--------------------
+Day 30
+spring is not enough!
+spring have sold empty!
+spring remain 0
+supply spring
+egg remain 5
+sausage remain 25
+jelly remain 17
+pasty remain 30
